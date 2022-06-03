@@ -95,6 +95,10 @@ body {
   justify-content: center;
 }
 
+.contact-info__block--left img {
+  transform: rotate(180deg);
+}
+
 .contact-info__item {
   color: var(--secondary-text-color);
   text-decoration: none;
